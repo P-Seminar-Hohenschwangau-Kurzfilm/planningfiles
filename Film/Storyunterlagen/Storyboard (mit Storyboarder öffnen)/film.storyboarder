@@ -1,0 +1,534 @@
+{
+  "version": "3.0.0",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "F19UB",
+      "url": "board-1-F19UB.png",
+      "newShot": false,
+      "lastEdited": 1613136421328,
+      "layers": {
+        "reference": {
+          "url": "board-1-F19UB-reference.png",
+          "opacity": 0.75
+        },
+        "ink": {
+          "url": "board-1-F19UB-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-1-F19UB-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-1-F19UB-fill.png"
+        },
+        "tone": {
+          "url": "board-1-F19UB-tone.png"
+        },
+        "pencil": {
+          "url": "board-1-F19UB-pencil.png"
+        },
+        "notes": {
+          "url": "board-1-F19UB-notes.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 208162.75542967385,
+      "notes": "Szene braucht: Balkon zum Wald\nKamera"
+    },
+    {
+      "uid": "F5PJC",
+      "url": "board-2-F5PJC.png",
+      "newShot": false,
+      "lastEdited": 1613137883218,
+      "layers": {
+        "pencil": {
+          "url": "board-2-F5PJC-pencil.png"
+        },
+        "reference": {
+          "url": "board-2-F5PJC-reference.png",
+          "opacity": 0.75
+        },
+        "ink": {
+          "url": "board-2-F5PJC-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-2-F5PJC-shot-generator.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-2-F5PJC-fill.png"
+        },
+        "tone": {
+          "url": "board-2-F5PJC-tone.png"
+        },
+        "notes": {
+          "url": "board-2-F5PJC-notes.png"
+        }
+      },
+      "number": 2,
+      "shot": "1B",
+      "time": 2000,
+      "lineMileage": 253756.9654951035,
+      "notes": "Szene braucht:\nMonitore, PC, Zubehör\nTisch, Stuhl\nRaumfüller (Sitzsack, Sessel...)\nCam"
+    },
+    {
+      "uid": "DKKDD",
+      "url": "board-3-DKKDD.png",
+      "newShot": false,
+      "lastEdited": 1613137891928,
+      "layers": {
+        "pencil": {
+          "url": "board-3-DKKDD-pencil.png"
+        },
+        "ink": {
+          "url": "board-3-DKKDD-ink.png"
+        }
+      },
+      "number": 3,
+      "shot": "1C",
+      "time": 4000,
+      "lineMileage": 68337.70037080125,
+      "notes": "Szene braucht:\n3D-Dummy"
+    },
+    {
+      "uid": "MZI7Z",
+      "url": "board-4-MZI7Z.png",
+      "newShot": false,
+      "lastEdited": 1613138050057,
+      "layers": {
+        "pencil": {
+          "url": "board-4-MZI7Z-pencil.png"
+        },
+        "shot-generator": {
+          "url": "board-4-MZI7Z-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-4-MZI7Z-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-4-MZI7Z-fill.png"
+        },
+        "tone": {
+          "url": "board-4-MZI7Z-tone.png"
+        },
+        "ink": {
+          "url": "board-4-MZI7Z-ink.png"
+        },
+        "notes": {
+          "url": "board-4-MZI7Z-notes.png"
+        }
+      },
+      "number": 4,
+      "shot": "1D",
+      "time": 6000,
+      "lineMileage": 117774.35679610734,
+      "notes": "Szene braucht:\nAuto\n3D-Dummy"
+    },
+    {
+      "uid": "XSDK6",
+      "url": "board-11-XSDK6.png",
+      "newShot": false,
+      "lastEdited": 1613495063826,
+      "layers": {
+        "pencil": {
+          "url": "board-11-XSDK6-pencil.png"
+        },
+        "ink": {
+          "url": "board-11-XSDK6-ink.png"
+        },
+        "reference": {
+          "url": "board-11-XSDK6-reference.png",
+          "opacity": 0.25
+        },
+        "fill": {
+          "url": "board-11-XSDK6-fill.png"
+        },
+        "notes": {
+          "url": "board-11-XSDK6-notes.png"
+        }
+      },
+      "number": 5,
+      "shot": "1E",
+      "time": 8000,
+      "lineMileage": 209243.69158704078,
+      "dialogue": "",
+      "action": "",
+      "notes": "Szene braucht:\nAuto\n3D-Dummy"
+    },
+    {
+      "uid": "HG4TF",
+      "url": "board-5-HG4TF.png",
+      "newShot": true,
+      "lastEdited": 1613138055824,
+      "layers": {
+        "pencil": {
+          "url": "board-5-HG4TF-pencil.png"
+        },
+        "ink": {
+          "url": "board-5-HG4TF-ink.png"
+        },
+        "notes": {
+          "url": "board-5-HG4TF-notes.png"
+        },
+        "tone": {
+          "url": "board-5-HG4TF-tone.png"
+        }
+      },
+      "number": 6,
+      "shot": "2A",
+      "time": 10000,
+      "lineMileage": 128765.53137492508,
+      "notes": "Szene braucht:\nWerkstatt\nKabel, Werkzeuge\nLadestation\nStuhl\n3D-Dummy"
+    },
+    {
+      "uid": "LYTCL",
+      "url": "board-8-LYTCL.png",
+      "newShot": false,
+      "lastEdited": 1613575564253,
+      "layers": {
+        "pencil": {
+          "url": "board-8-LYTCL-pencil.png"
+        },
+        "ink": {
+          "url": "board-8-LYTCL-ink.png"
+        },
+        "notes": {
+          "url": "board-8-LYTCL-notes.png"
+        },
+        "tone": {
+          "url": "board-8-LYTCL-tone.png"
+        }
+      },
+      "number": 7,
+      "shot": "2B",
+      "time": 12000,
+      "lineMileage": 489369.53364885063,
+      "notes": "Szene braucht:\nwie letzte Szene"
+    },
+    {
+      "uid": "2BXYZ",
+      "url": "board-9-2BXYZ.png",
+      "newShot": false,
+      "lastEdited": 1613576271834,
+      "layers": {
+        "pencil": {
+          "url": "board-9-2BXYZ-pencil.png"
+        },
+        "ink": {
+          "url": "board-9-2BXYZ-ink.png"
+        },
+        "notes": {
+          "url": "board-9-2BXYZ-notes.png"
+        },
+        "tone": {
+          "url": "board-9-2BXYZ-tone.png"
+        },
+        "shot-generator": {
+          "url": "board-9-2BXYZ-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-9-2BXYZ-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-9-2BXYZ-fill.png"
+        }
+      },
+      "number": 8,
+      "shot": "2C",
+      "time": 14000,
+      "lineMileage": 614819.6904604564,
+      "notes": "Szene braucht: \nwie letzte Szene"
+    },
+    {
+      "uid": "86NV5",
+      "url": "board-8-86NV5.png",
+      "newShot": false,
+      "lastEdited": 1613834415316,
+      "layers": {
+        "pencil": {
+          "url": "board-8-86NV5-pencil.png"
+        },
+        "ink": {
+          "url": "board-8-86NV5-ink.png"
+        },
+        "notes": {
+          "url": "board-8-86NV5-notes.png"
+        },
+        "tone": {
+          "url": "board-8-86NV5-tone.png"
+        }
+      },
+      "number": 9,
+      "shot": "2D",
+      "time": 16000,
+      "lineMileage": 493790.8240828719,
+      "audio": null,
+      "dialogue": "",
+      "action": "",
+      "notes": "Szene braucht: \nwie letzte Szene"
+    },
+    {
+      "uid": "2TFC8",
+      "url": "board-12-2TFC8.png",
+      "newShot": false,
+      "lastEdited": 1613832268411,
+      "layers": {
+        "pencil": {
+          "url": "board-12-2TFC8-pencil.png"
+        },
+        "ink": {
+          "url": "board-12-2TFC8-ink.png"
+        },
+        "notes": {
+          "url": "board-12-2TFC8-notes.png"
+        },
+        "shot-generator": {
+          "url": "board-12-2TFC8-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-12-2TFC8-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-12-2TFC8-fill.png"
+        },
+        "tone": {
+          "url": "board-12-2TFC8-tone.png"
+        }
+      },
+      "number": 10,
+      "shot": "2E",
+      "time": 18000,
+      "lineMileage": 453050.83257161913,
+      "notes": "Szene braucht:\n3D-Dummy\nMonitore, Tisch, PC + Zubehör"
+    },
+    {
+      "uid": "JK6BJ",
+      "url": "board-14-JK6BJ.png",
+      "newShot": false,
+      "lastEdited": 1613834486401,
+      "layers": {
+        "pencil": {
+          "url": "board-14-JK6BJ-pencil.png"
+        },
+        "ink": {
+          "url": "board-14-JK6BJ-ink.png"
+        },
+        "notes": {
+          "url": "board-14-JK6BJ-notes.png"
+        }
+      },
+      "shot": "2F",
+      "number": 11,
+      "time": 20000,
+      "lineMileage": 60335.47393204906,
+      "notes": "Szene braucht:\nAntennenzeugs\nRegale zum Wühlen\nFüllmaterial für Szene"
+    },
+    {
+      "uid": "GDQOO",
+      "url": "board-13-GDQOO.png",
+      "newShot": true,
+      "lastEdited": 1614526848712,
+      "layers": {
+        "reference": {
+          "url": "board-13-GDQOO-reference.png",
+          "opacity": 1
+        },
+        "ink": {
+          "url": "board-13-GDQOO-ink.png"
+        }
+      },
+      "shot": "3A",
+      "number": 12,
+      "time": 22000,
+      "lineMileage": 484.3928668515463
+    },
+    {
+      "uid": "Y4ILG",
+      "url": "board-14-Y4ILG.png",
+      "newShot": false,
+      "lastEdited": 1614526848863,
+      "layers": {
+        "reference": {
+          "url": "board-14-Y4ILG-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-14-Y4ILG-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-14-Y4ILG-fill.png"
+        },
+        "tone": {
+          "url": "board-14-Y4ILG-tone.png"
+        },
+        "pencil": {
+          "url": "board-14-Y4ILG-pencil.png"
+        },
+        "ink": {
+          "url": "board-14-Y4ILG-ink.png"
+        },
+        "notes": {
+          "url": "board-14-Y4ILG-notes.png"
+        }
+      },
+      "shot": "3B",
+      "number": 13,
+      "time": 24000,
+      "lineMileage": 35171.90869842114
+    },
+    {
+      "uid": "FZSH0",
+      "url": "board-15-FZSH0.png",
+      "newShot": false,
+      "lastEdited": 1614526848998,
+      "layers": {
+        "reference": {
+          "url": "board-15-FZSH0-reference.png",
+          "opacity": 1
+        },
+        "ink": {
+          "url": "board-15-FZSH0-ink.png"
+        }
+      },
+      "shot": "3C",
+      "number": 14,
+      "time": 26000,
+      "lineMileage": 317.60927946073934
+    },
+    {
+      "uid": "7N6G8",
+      "url": "board-16-7N6G8.png",
+      "newShot": false,
+      "lastEdited": 1614526849122,
+      "layers": {
+        "reference": {
+          "url": "board-16-7N6G8-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-16-7N6G8-shot-generator.png"
+        },
+        "fill": {
+          "url": "board-16-7N6G8-fill.png"
+        },
+        "tone": {
+          "url": "board-16-7N6G8-tone.png"
+        },
+        "pencil": {
+          "url": "board-16-7N6G8-pencil.png"
+        },
+        "ink": {
+          "url": "board-16-7N6G8-ink.png"
+        },
+        "notes": {
+          "url": "board-16-7N6G8-notes.png"
+        }
+      },
+      "shot": "3D",
+      "number": 15,
+      "time": 28000,
+      "lineMileage": 390.9876298863452
+    },
+    {
+      "uid": "4TTR1",
+      "url": "board-17-4TTR1.png",
+      "newShot": false,
+      "lastEdited": 1614526849277,
+      "layers": {
+        "reference": {
+          "url": "board-17-4TTR1-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-17-4TTR1-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-17-4TTR1-fill.png"
+        },
+        "tone": {
+          "url": "board-17-4TTR1-tone.png"
+        },
+        "pencil": {
+          "url": "board-17-4TTR1-pencil.png"
+        },
+        "ink": {
+          "url": "board-17-4TTR1-ink.png"
+        },
+        "notes": {
+          "url": "board-17-4TTR1-notes.png"
+        }
+      },
+      "shot": "3E",
+      "number": 16,
+      "time": 30000,
+      "lineMileage": 393.3941603634407
+    },
+    {
+      "uid": "3FVR2",
+      "url": "board-18-3FVR2.png",
+      "newShot": true,
+      "lastEdited": 1614526849403,
+      "layers": {
+        "reference": {
+          "url": "board-18-3FVR2-reference.png",
+          "opacity": 1
+        },
+        "ink": {
+          "url": "board-18-3FVR2-ink.png"
+        }
+      },
+      "shot": "4A",
+      "number": 17,
+      "time": 32000,
+      "lineMileage": 225.1290948207622
+    },
+    {
+      "uid": "R6O50",
+      "url": "board-19-R6O50.png",
+      "newShot": false,
+      "lastEdited": 1614526849522,
+      "layers": {
+        "reference": {
+          "url": "board-19-R6O50-reference.png",
+          "opacity": 1
+        },
+        "shot-generator": {
+          "url": "board-19-R6O50-shot-generator.png",
+          "opacity": 1
+        },
+        "fill": {
+          "url": "board-19-R6O50-fill.png"
+        },
+        "tone": {
+          "url": "board-19-R6O50-tone.png"
+        },
+        "pencil": {
+          "url": "board-19-R6O50-pencil.png"
+        },
+        "ink": {
+          "url": "board-19-R6O50-ink.png"
+        },
+        "notes": {
+          "url": "board-19-R6O50-notes.png"
+        }
+      },
+      "shot": "4B",
+      "number": 18,
+      "time": 34000,
+      "lineMileage": 360.0747578932537
+    }
+  ]
+}
